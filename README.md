@@ -14,8 +14,8 @@
 
 * TABLE OF REFRENCES
 * Refrence for SEO :https://www.semrush.com/blog/html-tags-for-seo/
-Refrence for hover : Activity 15 for Instructor
-Refrence : to using the proper html semantics 
+* Refrence for hover : Activity 15 for Instructor
+* Refrence : to using the proper html semantics 
 
 
 * 
