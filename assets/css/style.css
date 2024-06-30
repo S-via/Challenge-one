@@ -23,17 +23,17 @@ body {
 .nav
 {
     display: inline;
-
-
 }
 
 .link
 {
-    border-width:0;
     padding: 21px;
-    margin: 48px;
-    
+    margin: 0;   
 }
+
+.link:hover
+{
+color:bisque;}
 
 
 a {
