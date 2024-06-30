@@ -4,16 +4,20 @@
 * SO THAT their site is optimized for search engines.
 
 * ** Acceptance Criteria**:
-* 1.MUST HAVE
-* 2.MUST BE
-* 3.MUST NOT
+* 1.Code must have funcionable link to navigate through
+* 2.Must be able to be optimized for search engines 
+* 3.Must not affect the css allready applied 
 
-* 1.CREATE
-* 2.MAKE
-* 3.MAKE
+* 1.So i must create a cleaner code and fix the links allready in coprated
+* 2. Created a SEO , added description in the Title for more visability
+* 3. I made the the css class tags less and adding ID tags 
 
-* TABLE OF CONTENTS
+* TABLE OF REFRENCES
 * Refrence for SEO :https://www.semrush.com/blog/html-tags-for-seo/
+Refrence for hover : Activity 15 for Instructor
+Refrence : to using the proper html semantics 
+
+
 * 
 * ** Mock-up**:
 * HTML:ORIGINAL
